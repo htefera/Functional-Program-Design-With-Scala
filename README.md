@@ -12,7 +12,7 @@
 
 
 ### Tools, Technologies and Languages
-* **Language**-Scala, JavaScript
+* **Language**-Scala, JavaScript, and HTML
 * **Scala to JavaScript compiler**- Scala.js
 * **Editor or IDE**-IntelliJ
 * **Build tool**-sbt
