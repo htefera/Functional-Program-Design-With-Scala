@@ -32,6 +32,6 @@
  Running the program using SBR
  1. First start sbt in the project root directory
  2. Inside the sbt console 
-      * Compile the program using the **compile* command
+      * Compile the program using the **compile** command
       * Test the program using the **test** command
       * Run the program using the **run** command
