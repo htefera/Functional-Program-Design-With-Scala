@@ -11,7 +11,7 @@
 * Understand Reactive programming and write simple functional reactive applications
 
 
-### Tools, technologies and Languages
+### Tools, Technologies and Languages
 * **Language**-Scala, JavaScript
 * **Scala to JavaScript compiler**- Scala.js
 * **Editor or IDE**-IntelliJ
