@@ -12,8 +12,8 @@ You can find course description [here](https://www.coursera.org/learn/scala-func
 
 
 ### Tools, technologies and Languages
-* Language-Scala, JavaScript
-* Scala to JavaScript compiler- Scala.js
-* Editor or IDE-IntelliJ
-* Build tool-sbt
+* **Language**-Scala, JavaScript
+* **Scala to JavaScript compiler**- Scala.js
+* **Editor or IDE**-IntelliJ
+* **Build tool**-sbt
 
