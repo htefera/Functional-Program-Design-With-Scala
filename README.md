@@ -1,4 +1,5 @@
-# Functional Program Design in Scala [here](https://www.coursera.org/learn/scala-functional-program-design?)
+# Functional Program Design in Scala 
+  [here](https://www.coursera.org/learn/scala-functional-program-design?)
 
 
 ### Course Objectives
