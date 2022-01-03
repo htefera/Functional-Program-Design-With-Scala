@@ -1,5 +1,5 @@
 # Functional Program Design in Scala 
-  [here](https://www.coursera.org/learn/scala-functional-program-design?)
+  The course is given by Coursera and EPFL University [Go to the course](https://www.coursera.org/learn/scala-functional-program-design?)
 
 
 ### Course Objectives
