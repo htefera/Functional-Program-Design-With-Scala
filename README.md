@@ -25,3 +25,8 @@
 [Week 4]()<br>
 [Week 5]()<br>
 
+
+### Program Execution
+1. Import as sbt project into IntelliJ
+2. Run the project eitehr as main program or using sbt
+3.  
