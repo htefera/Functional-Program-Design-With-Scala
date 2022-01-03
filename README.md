@@ -20,11 +20,45 @@
 ### Course organization
 
 [Week 1]()<br>
+* For Expressions and Monads
+* Higher-order functions
+* List for compression techniques
+* collections, pattern matching, and functions
+* Functional Random Generators
+<br>
+
+
 [Week 2]()<br>
+* Fundamental of Scala lazy evaluation
+* Structural Induction on Trees
+* Lazy Lists
+* Pattern matching 
+* Apply lazy evaluation semantics for computing infinite sequences
+<br>
+
 [Week 3]()<br>
+
+* Type-Directed Programming and Contextual abstractions
+* Abstract algebra and type classes
+* Implicit function types and context passing
+* Conditional Implicit Definitions and Implicit Conversions
+
+<br>
+
 [Week 4]()<br>
+
+* Understandings of functions and state 
+* Program side-effects
+* Appication of functions and states on a discrete event simulation
+* Advanced loop expressions
+<br>
+
 [Week 5]()<br>
 
+* Scala event handling
+* Imperative event handling using the observer patter
+* Functional reactive programming(FRP)
+* Implementation of simple bank system using FRP
 
 ### Program Execution
 1. Import as sbt project into IntelliJ
