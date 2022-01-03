@@ -28,5 +28,5 @@
 
 ### Program Execution
 1. Import as sbt project into IntelliJ
-2. Run the project eitehr as main program or using sbt
+2. Run the project either as main program or using sbt
 3.  
